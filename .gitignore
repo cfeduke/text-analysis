@@ -11,3 +11,4 @@ target/
 /*.tmproj
 /ivy*
 /eclipse
+.DS_Store

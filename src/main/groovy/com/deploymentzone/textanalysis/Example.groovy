@@ -1,9 +1,4 @@
-//
-// Generated from archetype; please customize.
-//
-
 package com.deploymentzone.textanalysis
-
 /**
  * Example Groovy class.
  */
